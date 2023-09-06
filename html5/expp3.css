@@ -1,0 +1,23 @@
+h1{
+    color:DeepSkyBlue
+}
+Element selection
+h1, h2, h3 { 
+    color: DeepSkyBlue; background-color: #000; margin: 10px 5px;
+ }
+ main-header {
+     color: GreenYellow;
+     }
+ .red {
+     color: Red;
+     }
+ span.beautiful {
+     font-weight: bold; color: Blue; font-style: italic; 
+    }
+    h1#main, h2.sub, h3, .someClass, #anID {
+         color: Maroon;
+         }
+         .highlight {
+             color: Blue; text-decoration: underline; 
+            }
+ 
